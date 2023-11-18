@@ -1,0 +1,2 @@
+Maxwell = "cool"
+print (Maxwell)
